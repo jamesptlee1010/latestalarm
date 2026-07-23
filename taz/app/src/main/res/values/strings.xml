@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TAZALARM</string>
+    <string name="alarm_channel_name">TAZALARM active alarm</string>
+    <string name="alarm_channel_description">Full-screen alarm and wake-up routine</string>
+</resources>
